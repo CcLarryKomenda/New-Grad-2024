@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Campbell and Company](https://campbell.com/CampbellSiteCareers?bcPages=CampbellSiteIndex&current=CampbellSiteCareers) | United States | ✅ [Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US&jobId=486245) <br> ✅ [Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2de708e1-c847-43b1-bf0d-0bad30aca014&ccId=19000101_000001&type=MP&lang=en_US&jobId=486245) <br> | | 09/01/2023 |
 | [Honeywell](https://careers.honeywell.com/us/en) | United States | ✅ [Computer/Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://careers.honeywell.com/us/en/job/req413280/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time-US-Person-Requiredv) <br> ✅ [Computer/Software Engineer & Computer Science (Recent Grad/Full Time)](https://careers.honeywell.com/us/en/job/req412188/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) <br> | U.S. Citizenship required for first posting | 09/01/2023 |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/careers-at-hpe) | Multiple US Locations | ✅ [Software Engineering Graduate](https://careers.hpe.com/us/en/job/1160950/Software-Engineering-Graduate) | - | 09/01/2023 |
 | [Textron](https://www.textron.com/Careers) | Fort Worth, TX | ✅ [2024 Entry Level - Software Computer Science Engineering (July)](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1224126) | Must be U.S. Citizen for security clearance | 09/01/2023 |
@@ -154,6 +155,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | 🔒 **[Closed]** 🔒 <br> [Software Engineer]() <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
+|
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
